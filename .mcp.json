@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "baileys": {
+      "type": "http",
+      "url": "https://baileys.wiki/mcp"
+    }
+  }
+}
