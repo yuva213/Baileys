@@ -1,0 +1,9 @@
+{
+  "mcp": {
+    "baileys": {
+      "type": "remote",
+      "url": "https://baileys.wiki/mcp",
+      "enabled": true
+    }
+  }
+}
