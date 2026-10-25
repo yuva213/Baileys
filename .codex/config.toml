@@ -1,0 +1,3 @@
+[mcp_servers.baileys]
+type = "http"
+url = "https://baileys.wiki/mcp"
