@@ -1,0 +1,10 @@
+{
+  "context_servers": {
+    "baileys": {
+      "source": "custom",
+      "type": "http",
+      "url": "https://baileys.wiki/mcp",
+      "headers": {}
+    }
+  }
+}
